@@ -1,0 +1,29 @@
+#@bot.event 
+#async def on_messsage(message):
+    #prefix = "."
+    #if message.content[0] == prefix:
+        #if message.content[1:].startswith(".ping"):
+            #Await message.channel.send("pong")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#@bot.event
+#async def on_message(message):
+    #xx = message.author 
+    #xy  = message.content 
+    #return print (f'{xx} : 'f'{xy}')
+                  
